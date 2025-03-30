@@ -506,3 +506,6 @@ DOMAIN,music.youtube.com
 
 # Novids
 DOMAIN-SUFFIX,novids.com
+
+#Bravedown
+DOMAIN-SUFFIX,bravedown.com
